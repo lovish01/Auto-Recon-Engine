@@ -1,0 +1,6 @@
+date,ref,description,amount,type,account
+2025-07-01,1001,Client Payment,1000,credit,A1
+2025-07-02,INV-1002,Client Payment,1500,credit,A1
+2025-07-03,BANK-FEE,Bank Fee,-25,debit,BANK
+2025-07-04,INV-1003,Client Payment,740,credit,A2
+2025-07-04,INV-1004,Client Payment,250,credit,A2
