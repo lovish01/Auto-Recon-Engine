@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// Replace with your GitHub username and repo name
 const repoName = 'Auto-Recon-Engine'  // <-- change this if your repo name is different
 const username = 'lovish01'      // <-- change this to your GitHub username
 
