@@ -6,7 +6,7 @@ const repoName = 'Auto-Recon-Engine'
 
 export default defineConfig({
   plugins: [react()],
-  base: `/${repoName}/`,  // 👈 this is the key fix
+  base: '/Auto-Recon-Engine/',  
   build: {
     outDir: 'dist'
   }
